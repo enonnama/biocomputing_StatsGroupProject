@@ -1,3 +1,4 @@
+
 ---
 title: "Power Analysis"
 output: html_notebook
@@ -208,4 +209,3 @@ for (i in 1:length(x)){
    y.vec <- y
 }
 ```
-
